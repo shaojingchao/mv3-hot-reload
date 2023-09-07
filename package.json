@@ -1,5 +1,5 @@
 {
-  "name": "@shao/mv3-hot-reload",
+  "name": "@shaojc/mv3-hot-reload",
   "version": "0.2.8",
   "description": "Enable hot reloading for content script and background script in MV3.",
   "bin": "./out/bin/mv3-hot-reload.js",
